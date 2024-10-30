@@ -1,0 +1,85 @@
+header {
+    padding: 20px 0;
+    background-color: white;
+}
+
+.navbar-nav{
+    width: auto;
+    height: 100%;
+}
+
+.navbar-collapse{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+
+header .btn {
+    background-color: #ff6b6b;
+    color: white;
+    font-weight: bold;
+}
+
+.feature-section {
+    padding: 60px 0;
+    background-color: #ffffff;
+}
+
+.feature-item {
+    margin-bottom: 30px;
+}
+
+.feature-item h5 {
+    color: #ff6b6b;
+    font-weight: bold;
+}
+
+.testimonials-section {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.testimonials-section h2 {
+    font-weight: bold;
+}
+
+.testimonial {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.footer {
+    background-color: #ff6b6b;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
