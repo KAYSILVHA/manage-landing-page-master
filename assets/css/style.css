@@ -35,10 +35,27 @@ body {
     color: #6c757d;
 }
 
-header .btn {
+.btn {
     background-color: #ff6b6b;
     color: white;
     font-weight: bold;
+}
+
+.illustration-intro{
+    width: 30rem;
+}
+
+.text-intro{
+    width: 40%;
+}
+
+.text-intro h1{
+    font-size: 3.5rem;
+}
+
+.text-intro p{
+    font-size: 1.2rem;
+    width: 75%;
 }
 
 .feature-section {
